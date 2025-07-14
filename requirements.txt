@@ -1,4 +1,0 @@
-solana
-requests
-python-telegram-bot
-openai
